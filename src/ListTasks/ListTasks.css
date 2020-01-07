@@ -1,0 +1,30 @@
+.ListTask
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-right: 200px;
+    margin-left: 200px;
+
+
+}
+
+
+button
+{
+background: transparent;
+width :100px;
+height: 40px;
+border-radius: 5px;
+border-color:blue;
+
+}
+
+p{
+
+    color: #9C9C9B;
+     font-size: 30px;
+    align-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}

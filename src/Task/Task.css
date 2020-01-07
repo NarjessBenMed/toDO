@@ -1,0 +1,39 @@
+.Task
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    margin-top:30px;
+     margin-left:30px;
+     padding-left: 200px;
+
+
+} 
+
+.divButt
+{
+
+   display: flex;
+   justify-content: space-between; 
+   width: 250px;
+
+
+}
+
+label{
+
+    width : 100px
+}
+
+.complete{
+
+text-decoration: line-through;
+}
+
+.bl
+{
+    color:blue
+}
+
+
